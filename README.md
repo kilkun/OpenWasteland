@@ -1,5 +1,5 @@
 # OpenWasteland
-An open source recreation of Interplay's 1988 Wasteland!
+An open source recreation of Interplay's 1988 Wasteland! :+1:
 
 **Why:**
 
