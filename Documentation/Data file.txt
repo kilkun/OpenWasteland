@@ -1,0 +1,14 @@
+THE WAD
+
+It's just a zip file renamed with a defined file heirarchy.
+Very simple. The root directory contains 2 subdirectories, MAP and GRAPHICS
+
+DATA contains 3 subdirectories: 
+MAPFILE: all .xml map files associated with the loaded data as well as the save file, 
+ITEM: Items file containing a list of all the items in the game and their relevant info
+SHOP: Contains all shop lists.
+
+GRAPHICS contains 3 subdirectories:
+TILESETS: Contains all tileset data
+PICS: Contains all enemy portrait data, also called "PICS"
+MISC: Contains miscellaneous graphics data, such as fonts (MAYBE), masks, title screen and end screen, etc.
